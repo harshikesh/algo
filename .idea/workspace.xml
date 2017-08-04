@@ -4,7 +4,203 @@
     <bookmark url="file://$USER_HOME$/Documents/JavaProjects/OlaShare/ets-manager/src/main/java/com/ets/ets_manager/services/MongoDBService.java" description="toUpdateFields.put(MongoConstants.TOTAL_MONTHLY_TR..." line="2290" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d2bfa9b-ad37-4cdd-8a8b-10b52ed78b63" name="Default" comment="" />
+    <list default="true" id="9d2bfa9b-ad37-4cdd-8a8b-10b52ed78b63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FileMulti.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FindMinplusminus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FlipkartScript.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/Articulationpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/DFS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/Dijkstra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/NumberOfIslands.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/RatMaze.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/RatMazeShortestPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/ShoppingHackerrank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/maze.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Java.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Dice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Game.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Learning$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Learning.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/PowerFun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/SolutionA1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/SolutionCo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/BalanceArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/CustomThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FIndSubstr$1Trip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FIndSubstr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FileHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/HasNextImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/KMP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/Lock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/LongestPalindromeString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/LongestStringWRepated.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/Permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/RemoveSpaces.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/ReverseEachWord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/SortedSubStr$1SuffixTriplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/SortedSubStr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/WaterTap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/GRANAMA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/KPRIME.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/KPRIME2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/SUMPAIR.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/A-small-practice (1).in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/A120161.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Bathroom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Bff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Cake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Check.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/CheckMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Horse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/HorseChess$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/HorseChess.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Micro.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Micro2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Palin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakes2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack$Pan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pony$Horse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pony.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Quali2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/SortVersion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Stylist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/TidyNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/TowersOfHanoi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/coinjam$InputReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/coinjam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/lo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/palin2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/quali1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/AlternatePosNNegative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/BinBalls.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/BuildingBlocks3dRain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Child.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Dijkstra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/ExcelColumn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/FirstNonRepeating.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/GSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/InheritanceExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/KthMostFrequent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/LRU$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/LRU.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/NegativeSign.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/NumberOfPascalTriangles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Parent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PartitionSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PermutaionEts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PermutaionOfStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/StackGetMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/StaticExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/SumOfBitDifference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/TopAbcSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/TopoSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Track.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Tree$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Trie$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Trie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Two.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/findNumberInfiniteSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/CoinChangeInfiniteCoins.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/CuttingRod.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/EditDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/KnapSack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/LongestCommonSubSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/LongestSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/MinCostPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/NumberGameSelectingLast.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/NumberOfPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/PartitionProblem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/PermutationString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/SubSetSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/SumOFN_in_termsOfKdigit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/AmazonFlex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab2$City.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Microsoft.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/MissingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo$1Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/SimpleGames.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/SmpleGames2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/TestClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/TestClass1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Wal2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/WalMartHackerEarth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Walmart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/WorksApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/ABCxor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BallCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BigMod.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BigSorting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/CircleAndSquare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/ConsecutiveSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/GCD.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Max.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/NSE.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/NumberOfEqualStacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/OLX1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/PermutationNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Query.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RockGarden$Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RockGarden.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RotateArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SampleJava.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/StringCh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/StringMatching.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Stringw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SumofAllShortestpath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SuperPrime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Swap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/VaysaParty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Week34exp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Week34exp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/dynamiccoin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/password.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/A$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/Bolcheck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/jsoup-1.10.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DateUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DateUtilHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Inter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Inter2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/LOGGER.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/LockingClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/OddEven.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Primer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Run.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Runna.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/StaticSync.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/linkedlist/CustomLinkedList$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/linkedlist/CustomLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/BufferItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/Consumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/PCMain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/Producer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/spoj/PrimeGenerator.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Graph.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,16 +226,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Grab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerearth/Grab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Grab2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerearth/Grab2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,7 +248,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -72,6 +258,16 @@
                 <element signature="e#9053#9059#0" expanded="true" />
                 <element signature="e#9464#9470#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,6 +347,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -159,7 +358,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codejam/Horse.java" />
         <option value="$PROJECT_DIR$/src/codejam/Color.java" />
         <option value="$PROJECT_DIR$/src/Graph/Dijkstra.java" />
         <option value="$PROJECT_DIR$/src/codejam/Pony.java" />
@@ -210,6 +408,7 @@
         <option value="$PROJECT_DIR$/src/codejam/TowersOfHanoi.java" />
         <option value="$PROJECT_DIR$/src/linkedlist/CustomLinkedList.java" />
         <option value="$PROJECT_DIR$/src/datastructure/Tree.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -250,7 +449,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -307,24 +506,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -755,7 +936,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -766,15 +947,15 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22741936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44193548" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5483871" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.6416185" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.63928574" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.3583815" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.3607143" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19193548" sideWeight="0.4951535" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1281,13 +1462,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ladder/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ladder/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1737,6 +1911,14 @@
             <element signature="e#9053#9059#0" expanded="true" />
             <element signature="e#9464#9470#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
