@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2bfa9b-ad37-4cdd-8a8b-10b52ed78b63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/DivisbleBy3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" afterPath="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/PermutaionOfStrings.java" afterPath="$PROJECT_DIR$/src/datastructure/PermutaionOfStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google/DivisbleBy3.java" afterPath="$PROJECT_DIR$/src/google/DivisbleBy3.java" />
     </list>
     <ignored path="Graph.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,29 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#1559#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AlternatePosNNegative.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,11 +56,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DivisbleBy3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DivisbleBy3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/google/DivisbleBy3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="22">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutaionEts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/PermutaionEts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutaionOfStrings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/PermutaionOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,7 +125,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1620">
               <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#2580#2581#0" expanded="false" />
+                <element signature="e#2610#2611#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,7 +138,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding />
+              <folding>
+                <element signature="e#138#139#0" expanded="false" />
+                <element signature="e#172#173#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dynamic/LongestCommonSubSequence.java" />
         <option value="$PROJECT_DIR$/src/dynamic/PartitionProblem.java" />
         <option value="$PROJECT_DIR$/src/dynamic/KnapSack.java" />
         <option value="$PROJECT_DIR$/src/dynamic/PermutationString.java" />
@@ -216,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/CC.java" />
         <option value="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" />
         <option value="$PROJECT_DIR$/src/google/DivisbleBy3.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/PermutaionOfStrings.java" />
       </list>
     </option>
   </component>
@@ -343,7 +345,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrackingService" />
-    <property name="SearchEverywhereHistoryKey" value="lru&#9;PSI&#9;JAVA://datastructure.LRU&#10;linkedl&#9;PSI&#9;JAVA://linkedlist.CustomLinkedList&#10;tree&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Tree.java&#10;long&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;palin&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;trie&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Trie.java&#10;longe&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;dij&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Dijkstra.java&#10;produc&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/multiThreading/Producer.java&#10;top&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/TopoSort.java&#10;subs&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/dynamic/LongestCommonSubSequence.java&#10;produ&#9;PSI&#9;JAVA://multiThreading.Producer&#10;tre&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Tree.java&#10;df&#9;PSI&#9;JAVA://Graph.DFS&#10;dfs&#9;PSI&#9;JAVA://Graph.DFS&#10;wa&#9;PSI&#9;JAVA://hackerearth.Wal2&#10;dijk&#9;RUN_CONFIGURATION&#9;Dijkstra&#10;wal&#9;PSI&#9;JAVA://hackerearth.Wal2&#10;walma&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/hackerearth/Walmart.java&#10;hack&#9;PSI&#9;JAVA://hackerearth.WalMartHackerEarth" />
+    <property name="SearchEverywhereHistoryKey" value="perm&#9;PSI&#9;JAVA://datastructure.PermutaionOfStrings&#10;lru&#9;PSI&#9;JAVA://datastructure.LRU&#10;linkedl&#9;PSI&#9;JAVA://linkedlist.CustomLinkedList&#10;tree&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Tree.java&#10;long&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;palin&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;trie&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Trie.java&#10;longe&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/Strings/LongestPalindromeString.java&#10;dij&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Dijkstra.java&#10;produc&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/multiThreading/Producer.java&#10;top&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/TopoSort.java&#10;subs&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/dynamic/LongestCommonSubSequence.java&#10;produ&#9;PSI&#9;JAVA://multiThreading.Producer&#10;tre&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/datastructure/Tree.java&#10;df&#9;PSI&#9;JAVA://Graph.DFS&#10;dfs&#9;PSI&#9;JAVA://Graph.DFS&#10;wa&#9;PSI&#9;JAVA://hackerearth.Wal2&#10;dijk&#9;RUN_CONFIGURATION&#9;Dijkstra&#10;wal&#9;PSI&#9;JAVA://hackerearth.Wal2&#10;walma&#9;FILE&#9;file:///Users/harshikesh.kumar/IdeaProjects/Graph/src/hackerearth/Walmart.java&#10;hack&#9;PSI&#9;JAVA://hackerearth.WalMartHackerEarth" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -756,7 +758,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="707" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -765,14 +767,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2927215" sideWeight="0.5048465" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21129033" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33170733" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.61912477" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.6155718" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.3808752" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.38442823" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31869918" sideWeight="0.49667773" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1294,21 +1296,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codejam/HorseChess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codejam/CheckMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learnjava/LOGGER.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1562,6 +1549,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8370">
           <caret line="595" column="16" selection-start-line="595" selection-start-column="16" selection-end-line="595" selection-end-column="16" />
+          <folding>
+            <element signature="e#20831#20832#0" expanded="false" />
+            <element signature="e#20871#20872#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1632,16 +1623,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/google.java" />
-    <entry file="file://$PROJECT_DIR$/src/google/DivisbleBy3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55455">
@@ -1670,7 +1651,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
           <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#2580#2581#0" expanded="false" />
+            <element signature="e#2610#2611#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1678,7 +1662,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#138#139#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/PermutaionEts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google/DivisbleBy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/PermutaionOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
