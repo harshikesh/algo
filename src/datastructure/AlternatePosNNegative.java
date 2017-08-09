@@ -47,6 +47,7 @@ public class AlternatePosNNegative {
             System.out.print(arr[k]+", ");
         }
     }
+
     public static void main(String[] args) {
         int arr[] = {2,3,5,-2,-6,7,-3,-1};
         //-2 -6 -6 -1 5 3

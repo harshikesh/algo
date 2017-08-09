@@ -5,201 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2bfa9b-ad37-4cdd-8a8b-10b52ed78b63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FileMulti.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FindMinplusminus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/FlipkartScript.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/Articulationpoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/DFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/Dijkstra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/NumberOfIslands.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/RatMaze.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/RatMazeShortestPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/ShoppingHackerrank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Graph/maze.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Java.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Dice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Game.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Ladder/Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Learning$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Learning.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/PowerFun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/SolutionA1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/SolutionCo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/BalanceArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/CustomThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FIndSubstr$1Trip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FIndSubstr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/FileHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/HasNextImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/KMP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/LongestPalindromeString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/LongestStringWRepated.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/RemoveSpaces.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/ReverseEachWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/SortedSubStr$1SuffixTriplet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/Strings/SortedSubStr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/WaterTap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/GRANAMA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/KPRIME.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/KPRIME2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codechef/SUMPAIR.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/A-small-practice (1).in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/A120161.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Bathroom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Bff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Cake.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Check.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/CheckMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Horse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/HorseChess$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/HorseChess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Micro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Micro2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Palin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakes2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack$Pan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pancakestack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pony$Horse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Pony.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Quali2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Rata.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/SortVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/Stylist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/TidyNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/TowersOfHanoi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/coinjam$InputReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/coinjam.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/lo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/palin2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/codejam/quali1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/AlternatePosNNegative.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/BinBalls.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/BuildingBlocks3dRain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Child.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Dijkstra.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/ExcelColumn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/FirstNonRepeating.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/GSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/InheritanceExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/KthMostFrequent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/LRU$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/LRU.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/NegativeSign.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/NumberOfPascalTriangles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Parent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PartitionSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PermutaionEts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/PermutaionOfStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/StackGetMin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/StaticExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/SumOfBitDifference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/TopAbcSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/TopoSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Track.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Tree$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Trie$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Trie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/Two.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/datastructure/findNumberInfiniteSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/CoinChangeInfiniteCoins.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/CuttingRod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/EditDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/KnapSack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/LongestCommonSubSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/LongestSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/MinCostPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/NumberGameSelectingLast.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/NumberOfPath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/PartitionProblem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/PermutationString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/SubSetSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/dynamic/SumOFN_in_termsOfKdigit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/AmazonFlex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab2$City.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Grab2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Microsoft.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/MissingNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo$1Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Rivigo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/SimpleGames.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/SmpleGames2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/TestClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/TestClass1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Wal2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/WalMartHackerEarth.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/Walmart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerearth/WorksApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/ABCxor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BallCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BigMod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/BigSorting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/CircleAndSquare.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/ConsecutiveSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/GCD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Max.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/NSE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/NumberOfEqualStacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/OLX1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/PermutationNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Query.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RockGarden$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RockGarden.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/RotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SampleJava.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/StringCh.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/StringMatching.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Stringw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SumofAllShortestpath.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/SuperPrime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Swap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/VaysaParty.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Week34exp$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/Week34exp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/dynamiccoin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/hackerrank/password.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/A$B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/Bolcheck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/javaex/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/jsoup-1.10.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DateUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DateUtilHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/DeadlockJava.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Inter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Inter2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/LOGGER.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/LockingClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/OddEven.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Primer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/Runna.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/learnjava/StaticSync.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/linkedlist/CustomLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/linkedlist/CustomLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/BufferItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/PCMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/multiThreading/Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Graph/spoj/PrimeGenerator.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google/DivisbleBy3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" afterPath="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" />
     </list>
     <ignored path="Graph.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,11 +37,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Grab2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerearth/Grab2.java">
+      <file leaf-file-name="BB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#1559#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlternatePosNNegative.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GRANAMA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codechef/GRANAMA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -238,35 +82,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorksApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerearth/WorksApp.java">
+      <file leaf-file-name="DivisbleBy3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/google/DivisbleBy3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="582" column="0" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+            <state relative-caret-position="490">
+              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
-                <element signature="e#8645#8651#0" expanded="true" />
-                <element signature="e#9053#9059#0" expanded="true" />
-                <element signature="e#9464#9470#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="BigInteger.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <state relative-caret-position="55455">
+              <caret line="3758" column="15" selection-start-line="3758" selection-start-column="15" selection-end-line="3758" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6795">
+              <caret line="490" column="13" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -275,7 +117,7 @@
       <file leaf-file-name="LRU.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/LRU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="375">
               <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
               <folding />
             </state>
@@ -295,43 +137,8 @@
       <file leaf-file-name="Trie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="285">
               <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="595" column="16" selection-start-line="595" selection-start-column="16" selection-end-line="595" selection-end-column="16" />
-              <folding>
-                <element signature="e#20831#20832#0" expanded="true" />
-                <element signature="e#20871#20872#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-              <folding>
-                <element signature="docComment;field#out#0;class#System#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/CustomLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -358,11 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codejam/Color.java" />
-        <option value="$PROJECT_DIR$/src/Graph/Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/codejam/Pony.java" />
-        <option value="$PROJECT_DIR$/src/codejam/Pancakestack.java" />
-        <option value="$PROJECT_DIR$/src/hackerearth/WalMartHackerEarth.java" />
         <option value="$PROJECT_DIR$/src/dynamic/LongestCommonSubSequence.java" />
         <option value="$PROJECT_DIR$/src/dynamic/PartitionProblem.java" />
         <option value="$PROJECT_DIR$/src/dynamic/KnapSack.java" />
@@ -409,6 +211,11 @@
         <option value="$PROJECT_DIR$/src/linkedlist/CustomLinkedList.java" />
         <option value="$PROJECT_DIR$/src/datastructure/Tree.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/BB.java" />
+        <option value="$PROJECT_DIR$/src/AA.java" />
+        <option value="$PROJECT_DIR$/src/CC.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java" />
+        <option value="$PROJECT_DIR$/src/google/DivisbleBy3.java" />
       </list>
     </option>
   </component>
@@ -422,7 +229,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="712" />
+    <option name="height" value="707" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -475,8 +282,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -509,6 +316,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Graph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Graph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -538,67 +363,7 @@
       <recent name="java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tree">
-    <configuration default="false" name="KPRIME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codechef.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codechef.KPRIME" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Graph" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="lo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codejam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codejam.lo" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Graph" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TowersOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codejam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codejam.TowersOfHanoi" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Graph" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DivisbleBy3">
     <configuration default="false" name="CustomLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -627,6 +392,61 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="datastructure.Tree" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Graph" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="CC" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Graph" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AlternatePosNNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="datastructure.AlternatePosNNegative" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.7" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Graph" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DivisbleBy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="google.DivisbleBy3" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -893,19 +713,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Dijkstra" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KPRIME" />
-      <item index="2" class="java.lang.String" itemvalue="Application.lo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TowersOfHanoi" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CustomLinkedList" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Tree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CustomLinkedList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CC" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AlternatePosNNegative" />
+      <item index="5" class="java.lang.String" itemvalue="Application.DivisbleBy3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CustomLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TowersOfHanoi" />
-        <item index="3" class="java.lang.String" itemvalue="Application.lo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KPRIME" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DivisbleBy3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AlternatePosNNegative" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CC" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CustomLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -935,33 +755,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="707" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31935483" sideWeight="0.49667773" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2927215" sideWeight="0.5048465" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22741936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5483871" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21129033" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.63928574" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.61912477" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.3607143" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19193548" sideWeight="0.4951535" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.3808752" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31869918" sideWeight="0.49667773" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22439024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3512195" sideWeight="0.4951535" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1440,11 +1260,23 @@
           <properties />
           <option name="timeStamp" value="318" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/google/DivisbleBy3.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/google/DivisbleBy3.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="319" />
+      <option name="time" value="325" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1462,66 +1294,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ladder/Dice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/TopoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiThreading/BufferItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiThreading/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codejam/SortVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codejam/palin2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codejam/Palin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codejam/HorseChess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -1697,23 +1469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codechef/GRANAMA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codechef/SUMPAIR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="17" column="33" selection-start-line="11" selection-start-column="0" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1731,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1739,9 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1759,59 +1514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7470">
           <caret line="531" column="22" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#60784#0" expanded="false" />
-            <element signature="e#6101#6102#0" expanded="false" />
-            <element signature="e#6171#6172#0" expanded="false" />
-            <element signature="e#7967#7968#0" expanded="false" />
-            <element signature="e#8013#8014#0" expanded="false" />
-            <element signature="e#9482#9483#0" expanded="false" />
-            <element signature="e#9528#9529#0" expanded="false" />
-            <element signature="e#10902#10903#0" expanded="false" />
-            <element signature="e#10948#10949#0" expanded="false" />
-            <element signature="e#15724#15725#0" expanded="false" />
-            <element signature="e#15779#15780#0" expanded="false" />
-            <element signature="e#32532#32533#0" expanded="false" />
-            <element signature="e#32566#32567#0" expanded="false" />
-            <element signature="e#33488#33489#0" expanded="false" />
-            <element signature="e#33522#33523#0" expanded="false" />
-            <element signature="e#33736#33737#0" expanded="false" />
-            <element signature="e#33771#33772#0" expanded="false" />
-            <element signature="e#33891#33892#0" expanded="false" />
-            <element signature="e#33919#33920#0" expanded="false" />
-            <element signature="e#34168#34169#0" expanded="false" />
-            <element signature="e#34202#34203#0" expanded="false" />
-            <element signature="e#34414#34415#0" expanded="false" />
-            <element signature="e#34449#34450#0" expanded="false" />
-            <element signature="e#34664#34665#0" expanded="false" />
-            <element signature="e#34700#34701#0" expanded="false" />
-            <element signature="e#35161#35162#0" expanded="false" />
-            <element signature="e#35199#35200#0" expanded="false" />
-            <element signature="e#35486#35487#0" expanded="false" />
-            <element signature="e#35532#35533#0" expanded="false" />
-            <element signature="e#35824#35825#0" expanded="false" />
-            <element signature="e#35852#35853#0" expanded="false" />
-            <element signature="e#37816#37817#0" expanded="false" />
-            <element signature="e#37859#37860#0" expanded="false" />
-            <element signature="e#46394#46395#0" expanded="false" />
-            <element signature="e#46458#46459#0" expanded="false" />
-            <element signature="e#47036#47037#0" expanded="false" />
-            <element signature="e#47092#47093#0" expanded="false" />
-            <element signature="e#47615#47616#0" expanded="false" />
-            <element signature="e#47675#47676#0" expanded="false" />
-            <element signature="e#48444#48445#0" expanded="false" />
-            <element signature="e#48491#48492#0" expanded="false" />
-            <element signature="e#56465#56466#0" expanded="false" />
-            <element signature="e#56523#56524#0" expanded="false" />
-            <element signature="e#57650#57651#0" expanded="false" />
-            <element signature="e#57708#57709#0" expanded="false" />
-            <element signature="e#59796#59797#0" expanded="false" />
-            <element signature="e#59824#59825#0" expanded="false" />
-            <element signature="e#60191#60192#0" expanded="false" />
-            <element signature="e#60228#60229#0" expanded="false" />
-            <element signature="e#60595#60596#0" expanded="false" />
-            <element signature="e#60632#60633#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1819,7 +1521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1859,37 +1560,108 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="8370">
           <caret line="595" column="16" selection-start-line="595" selection-start-column="16" selection-end-line="595" selection-end-column="16" />
-          <folding>
-            <element signature="e#20831#20832#0" expanded="true" />
-            <element signature="e#20871#20872#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="315">
           <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8700">
+          <caret line="582" column="0" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
-            <element signature="docComment;field#out#0;class#System#0" expanded="false" />
+            <element signature="e#0#1559#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/AlternatePosNNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codechef/GRANAMA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google.java" />
+    <entry file="file://$PROJECT_DIR$/src/google/DivisbleBy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55455">
+          <caret line="3758" column="15" selection-start-line="3758" selection-start-column="15" selection-end-line="3758" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6795">
+          <caret line="490" column="13" selection-start-line="490" selection-start-column="13" selection-end-line="490" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/LRU.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="375">
           <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1902,22 +1674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructure/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="582" column="0" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
-          <folding>
-            <element signature="e#8645#8651#0" expanded="true" />
-            <element signature="e#9053#9059#0" expanded="true" />
-            <element signature="e#9464#9470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
